@@ -1,4 +1,5 @@
 # Grow: Work
+
 ### An app designed to connect new grads / transitioning professionals and startups, helping them to grow together.
 
 The purpose of this app is to help those just getting started in a new field by connecting budding professionals with growing companies in the hopes that everyone can get the expierence and help they need to succeed.
