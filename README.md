@@ -29,6 +29,8 @@ To be deployed
 
 • Sign up / sign in
 
+• Sign out
+
 • Create general profile
 
 • Update profile
