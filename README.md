@@ -10,9 +10,9 @@ To be deployed
 
 ## Related Repos
 
-[Native Mobile App](https://github.com/Dionne-Stratton/grow-work-frontend-react-native)
+[Native Mobile App](https://github.com/Grow-Work/frontend-react-native)
 
-[Mongo Database and Server](https://github.com/Dionne-Stratton/grow-work-backend)
+[Mongo Database and Server](https://github.com/Grow-Work/backend-node-mongoDB)
 
 ## Tech Stack - subject to change
 
@@ -23,46 +23,6 @@ To be deployed
 • Redux - eventually
 
 • JavaScript / TypeScript(tbd)
-
-## Current MVP
-
-### All Users
-
-• Sign up / sign in
-
-• Sign out
-
-• Create general profile
-
-• Update profile
-
-• Delete profile
-
-• Light / Dark mode ?
-
-### Companies
-
-• Post job listings
-
-• Edit job listings
-
-• Delete job listings
-
-• View all professionals
-
-• Filter professionals based on tags (location, skills, etc.)
-
-### Professionals
-
-• View all job listings
-
-• Filter job listings based on tags (location, company, role, etc.)
-
-• Recieve an alert based on tags (location, company, role, etc.)
-
-• Save job listings
-
-• Delete saved job listings
 
 ## Instalation and Starting
 
