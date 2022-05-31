@@ -1,6 +1,6 @@
 # Grow: Work
 
-Web App
+Web App - a marketing page for the mobile app
 
 ## Current Live Version
 
@@ -16,11 +16,7 @@ To be deployed
 
 • React
 
-• Styled Components / CSS
-
-• Redux - eventually
-
-• JavaScript / TypeScript(tbd)
+• JavaScript
 
 ## Instalation and Starting
 
